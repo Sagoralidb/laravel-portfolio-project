@@ -1,0 +1,6 @@
+This is Laravel project.
+This is version 1.1 developed by Md.Sagor Ali BD
+My github link : https://github.com/Sagoralidb;
+There are the databse: "sagoralibd.sql" upload it into your database.
+
+Edit this .env file; set your contact related info: gmail App passwords
